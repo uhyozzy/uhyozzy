@@ -3,7 +3,7 @@
 
 Welecome to my page!
 
-I am Hyojin, data analyst ana from South Korea.
+I am Hyojin from South Korea.
 Also, now i am interested in data science and engineering.
 
 
